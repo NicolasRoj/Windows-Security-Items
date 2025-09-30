@@ -1,6 +1,6 @@
 # EventLogMonitor (Windows Security Event GUI)
 
-EventLogMonitor is a Python/Tkinter GUI tool for **hunting and monitoring critical Windows Security Event Log IDs**.  
+EventLogMonitor is a Python/Tkinter GUI tool for **hunting and monitoring critical Windows Security Event Log IDs**. ONLY FOR SECURITY PURPOSES. 
 It allows defenders to quickly query logs like **4625 (failed logons)**, **4672 (privilege logons)**, **4720 (account creation)**, and more — without memorizing Event IDs.
 
 🚨 Designed for **SOC analysts, incident responders, and security engineers** who need fast visibility into Windows authentication and persistence events.
