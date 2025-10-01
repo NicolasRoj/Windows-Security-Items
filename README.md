@@ -38,12 +38,6 @@ The **Help window** in the app lists all included Event IDs with detailed reason
 
 ---
 
-## 🖥️ Screenshots
-
-*(Add screenshots here once you run the GUI — e.g., the main window with dropdown and results.)*
-
----
-
 ## 🚀 Usage
 
 ### Option 1 (Not necessary with EXE version): Run with Python
