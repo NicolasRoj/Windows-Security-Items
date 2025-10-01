@@ -16,7 +16,7 @@ It allows defenders to quickly query logs like **4625 (failed logons)**, **4672 
 - **Results in real time** inside the GUI.
 - **Structured JSONL output** written to disk for SIEM ingestion:
 
-- ## 🔑 Supported Event IDs
+- ## 🔑 All error codes are supported, here are the ones ready on install. Supported Event IDs
 
 Some highlights:
 
